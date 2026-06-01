@@ -9,3 +9,15 @@
     justify-content: space-between;
     border: 2px solid black;
 }
+
+.basic-plan {
+    order: 1;
+}
+
+.pro-plan {
+    order: 2;
+}
+
+.premium-plan {
+    order: 3;
+}
