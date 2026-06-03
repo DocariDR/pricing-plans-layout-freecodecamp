@@ -12,14 +12,18 @@ h1 {
 
 .pricing-container {
     display: flex;
+    max-width: 1000px;
+    margin: auto;
     flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
 .pricing-card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    flex: 0 0 400px;
+    flex: 0 0 200px;
     border: 2px solid black;
 }
 
