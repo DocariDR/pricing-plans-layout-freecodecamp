@@ -15,16 +15,22 @@ h1 {
     max-width: 1000px;
     margin: auto;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: flex-start;
+    box-sizing: border-box;
 }
 
 .pricing-card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    flex: 0 0 200px;
+    align-items: center;
+    flex: 0 0 300px;
     border: 2px solid black;
+    min-height: 400px;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    border-radius: 1rem;
 }
 
 .basic-plan {
@@ -33,7 +39,6 @@ h1 {
 
 .pro-plan {
     order: 1;
-    flex-grow: 2;
 }
 
 .premium-plan {
