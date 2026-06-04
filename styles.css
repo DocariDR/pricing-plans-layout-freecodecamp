@@ -30,6 +30,11 @@ h1 {
     padding: 1.5rem;
     box-sizing: border-box;
     border-radius: 1rem;
+    transition: transform .3s ease;
+}
+
+.pricing-card:hover {
+    transform: scale(1.05);
 }
 
 .pricing-card.pro-plan {
