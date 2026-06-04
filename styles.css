@@ -46,6 +46,14 @@ h1 {
     margin: 0;
 }
 
+.pricing-card ul {
+    list-style: none;
+    margin: 2rem 0;
+    padding: 0;
+    line-height: 2rem;
+    font-size: 1.2rem;
+}
+
 .basic-plan {
     order: 0;
 }
