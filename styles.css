@@ -71,8 +71,16 @@ h1 {
     transition: background-color .3s ease;
 }
 
+.pricing-card.pro-plan button {
+    background-color: rgb(4, 77, 4);
+}
+
 .pricing-card button:hover {
     background-color: #0f172acc;
+}
+
+.pricing-card.pro-plan button:hover{
+    background-color: green;
 }
 
 .basic-plan {
