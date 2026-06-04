@@ -69,6 +69,7 @@ h1 {
     color: #fff;
     background-color: #0f172a;
     transition: background-color .3s ease;
+    margin-top: auto;
 }
 
 .pricing-card.pro-plan button {
