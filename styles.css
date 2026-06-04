@@ -54,6 +54,17 @@ h1 {
     font-size: 1.2rem;
 }
 
+.pricing-card button {
+    padding: .8em 1em;
+    font-size: 1rem;
+    font-weight: 800;
+    border: none;
+    border-radius: .8em;
+    cursor: pointer;
+    color: #fff;
+    background-color: #0f172a;
+}
+
 .basic-plan {
     order: 0;
 }
