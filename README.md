@@ -16,6 +16,12 @@ Mise en page d'une grille de plans tarifaires construite avec HTML sémantique e
 
 Trois cartes tarifaires (Basic, Pro, Premium) disposées en ligne avec Flexbox, chacune présentant son prix, ses fonctionnalités et un bouton d'appel à l'action.
 
+![Aperçu du projet](screenshot.png)
+
+---
+
+## Démo en ligne
+
 **[→ Voir la démo en direct](https://docaridr.github.io/pricing-plans-layout-freecodecamp/)**
 
 ---
