@@ -22,7 +22,7 @@ Trois cartes tarifaires (Basic, Pro, Premium) disposées en ligne avec Flexbox, 
 
 ## Démo en ligne
 
-**[→ Voir la démo en direct](https://docaridr.github.io/pricing-plans-layout-freecodecamp/)**
+   **[Voir la démo en direct](https://docaridr.github.io/pricing-plans-layout-freecodecamp/)**
 
 ---
 
@@ -57,4 +57,4 @@ cd pricing-plans-layout-freecodecamp
 
 ## Auteur
 
-**DocariDR** — [GitHub](https://github.com/DocariDR)
+**DocariDR** - [GitHub](https://github.com/DocariDR)
